@@ -1,0 +1,17 @@
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+transformers==4.48.3
+TTS==0.22.0
+fastapi==0.104.1
+uvicorn==0.24.0
+websockets==12.0
+python-multipart==0.0.6
+pydantic==2.5.0
+numpy==1.24.3
+accelerate==0.24.1
+bitsandbytes==0.41.3
+scipy==1.11.4
+librosa==0.10.1
+soundfile==0.12.1  
+ollama==0.2.1  # ← ADD THIS LINE
